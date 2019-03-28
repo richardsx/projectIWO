@@ -1,0 +1,9 @@
+Hide
+y2016 <- c(147689,139610,117337,103572)
+barplot(y2016, main="Visitors 2016", ylim=c(0,200000), xlab="Seasons",ylab="Visitors", names.arg=c("spring", "summer", "fall", "winter"), col=c("springgreen1","darkorange","darkorchid2", "dodgerblue2"))
+
+y2017 <- c(153445,149692,119259,97165)
+barplot(y2017, main="Visitors 2017", ylim=c(0,200000), xlab="Seasons",ylab="Visitors", names.arg=c("spring", "summer", "fall", "winter"), col=c("springgreen1","darkorange","darkorchid2", "dodgerblue2"))
+
+y2018 <- c(128436,119050,110200,100484)
+barplot(y2018, main="Visitors 2018", ylim=c(0,200000), xlab="Seasons",ylab="Visitors", names.arg=c("spring", "summer", "fall", "winter"), col=c("springgreen1","darkorange","darkorchid2", "dodgerblue2"))
